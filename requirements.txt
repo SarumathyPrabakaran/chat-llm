@@ -1,0 +1,6 @@
+accelerate
+bitsandbytes
+langchain
+fastapi
+uvicorn
+python-multipart
