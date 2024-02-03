@@ -6,6 +6,4 @@ fastapi
 uvicorn
 python-multipart
 SpeechRecognition
-nest-asyncio 
-pyngrok
 #pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
