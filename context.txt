@@ -8,77 +8,97 @@ The AWS Student Community Day promises an immersive experience over two days, fe
 Topics Covered:
 Cloud Computing, Generative AI Growth, Machine learning Engineering, Serverless, Event Based Architecture, Security and DataOps
 
-  
-Day 1:
-8:00 to 9:30 - Registration
-9:30 to 9.40 - Welcome Note
-9.40 to 10.00 - Special Addressing by Raghul G (AWS Cloud Captain)
-10.00 to 10.10 - Cheif Guest Inaugurating the event
-10.10 to 10.40 - Cheif Guest Addressing (Mr. Kumara Raghavan, Head of Startup, Amazon Web Services)
-10.40 to 11.00 - Tea Break
-11.00 to 11.50 - 
+
+Day 1: 8:00 to 9:30 - Registration
+
+Day 1: 9:30 to 9.40 - Welcome Note
+
+Day 1: 9.40 to 10.00 - Special Addressing by Raghul G (AWS Cloud Captain)
+
+Day 1: 10.00 to 10.10 - Cheif Guest Inaugurating the event
+
+Day 1: 10.10 to 10.40 - Cheif Guest Addressing (Mr. Kumara Raghavan, Head of Startup, Amazon Web Services)
+
+Day 1: 10.40 to 11.00 - Tea Break
+
+Day 1: 11.00 to 11.50 - 
 AI/ML Track Session 1 is How to improve and contextualize GenAI Responses using RAG and Bedrock by Sornavel Perumal, Senior Technical Account Manager, AWS and Mahesh Baby Puliyadi Kubendran, Senior Customer Solutions Manager, AWS.
 Serverless/DataOps Track Session 1 is Accelerating Innovation: Journey through AWS Serverless Services by Bhuvana R, Software Product and Platform Engineering Manager at Accenture.
 Security/ Career Guidance Session 1 is Certify & Elevate: Charting Career Success with AWS Global Certifications by Padmini Subramanian, Associate Vice President, JP Morgan
-11.50 to 12.40 - 
+
+Day 1: 11.50 to 12.40 - 
 AI/ML Track Session 2 is Ethics of AI by Jen Looper, Head of Academic Advocacy, Amazon Web Services.
 Serverless/DataOps Track Session 2 is Creative Getting Started With AWS Workspaces by Aarthi Ranganathan, SecOps Consultant, Caterpillar.
 Security/ Career Guidance Session 2 is Exploiting and Defending CI/CD Pipelines by Bharath Kumar N, Security Consultant, Pearson
-12.40 to 1.40 - Lunch Break
-1.40 to 2.30 - 
+
+Day 1: 12.40 to 1.40 - Lunch Break
+
+Day 1: 1.40 to 2.30 - 
 AI/ML Track Session 3 is Beyond Language: The Rise of Generative AI from Transformer Foundations by Deepak Sai Pandelya, Ex – Applied Scientist Intern, Amazon.
 Serverless/DataOps Track Session 3 is Security in AWS Serverless by Aarthi Ranganathan, SecOps Consultant, Caterpillar.
 Security/ Career Guidance Session 3 is Pune Securing the Cloud: Building DevSecOps Pipelines on AWS by Sankalp Sandeep Paranjpe, AWS Cloud Captain - MIT ADTU
-02.30 to 03.20 - 
+
+Day 1: 02.30 to 03.20 - 
 AI/ML Track Session 4 is Demystifying generative AI on AWS by Chirag Oswal, Partner Solutions Architect at AWS.
 Serverless/DataOps Track Session 4 is Orchestration Odyssey: Navigating Tomorrow's Digital Symphony with AWS DataZone, Murali Doss, DevOps Lead at Comcast Data.
 Security/ Career Guidance Session 4 is Two Journeys One Cloud Career Pathways by Jen Looper, AWS and Aditi Sawhney Senior Digital Marketing Manager atAmazon Web Services
-03.20 – 03.40 - Tea Break
-03.40 – 04.30 - Panel Discussion - Topic: What will be the Opportunities in Next Decade? What students and early career professionals need to follow to pursuse an excellent career?
-04.30 – 05.00 - End of Day 1
+
+Day 1: 03.20 – 03.40 - Tea Break
+
+Day 1: 03.40 – 04.30 - Panel Discussion - Topic: What will be the Opportunities in Next Decade? What students and early career professionals need to follow to pursuse an excellent career?
+
+Day 1: 04.30 – 05.00 - End of Day 1
 
 
-Day 2: 
-08:00 to 09:00 -  Registration
-09.00 to 09.10 - Welcome Note by Dr.P.Ravichandran (Principal,  St. Joseph's Institute of Technology)
-09.10 to 09.40 - Special Addressing  by Madhukiran J (Senior Technical Account Manager, Amazon Web Services) on topic Welcome to Generative AI Space, Updates and Advancements from AWS Re:Invent 2023
-9.40 tto 10.00  - Tea Break
-10.00 - 10.50 - Session 1 
-- AI/ML Track  by Prabakaran Chandran (Senior ML Engineer, Informatica) on Building Retrieval Augmented Generation with AWS OpenSearch Service.
-- Serverless Track / Data Ops Track  by Sridevi Murugayen (Director Fidelity Investments)
-- Security / Career Guidance Track by Sanjeev Kumar Jaiswal (Staff Engineer - Cybersecurity Lifesight) on Insights of AWS Security in Industry for Career growth
 
-10.50 - 11.40 - Session 2
-- AI/ML Track  by Dheeraj Choudhary (Lead Systems Engineer, EPAM Systems) on Revolutionize your coding experience with Amazon CodeWhisperer
-- Serverless Track / Data Ops Track  by Hariharan (Senior Software Engineer, Caterpillar) on Charting the Future: AWS Serverless Strategies for Success
-- Security / Career Guidance Track by Ranjinni Joshe (Cloud Security Consultant - Million Square Feet) on Insights into AWS Encryption and GuardDuty Blueprint
+Day 2: 08:00 to 09:00 -  Registration
 
-11.40 - 12.30 Session 3
-- AI/ML Track by Vijayalakshmi Bakthavachalam (Site Reliability Engineer HCL Technologies) on Tranforming IT Operations: Unleashing AI/ML Power on AWS
-- Serverless Track / Data Ops Track by Jones Zacharia Noel (Senior Developer Advocate Freshworks) on Building Serverless applications from your IDE with AWS Application Composer
-- Security / Career Guidance Track by  Aditi Sawhney (Senior Digital Marketing Manager Amazon Web Services) on Building Your Brand Blueprint: 7 Strategic Steps for Personal Growth
+Day 2: 09.00 to 09.10 - Welcome Note by Dr.P.Ravichandran (Principal,  St. Joseph's Institute of Technology)
 
-12.30 to 1.40 - Lunch Break
+Day 2: 09.10 to 09.40 - Special Addressing  by Madhukiran J (Senior Technical Account Manager, Amazon Web Services) on topic Welcome to Generative AI Space, Updates and Advancements from AWS Re:Invent 2023
 
-01.40 to 02.30 - Session 4
-- AI/ML Track by Ayyanar Jeyakrishnan (Executive Director / Principal Engineer Wells Fargo) on Unleashing Machine learning Magic: Demystifying Amazon SageMaker Canvas for Student Innovators
-- Serverless Track / Data Ops Track by Sriharsha (Senior Solutions Architect Amazon Web Services) on Leveraging the Power of Machine Learning with Data Analytics
-- Security / CareerGuidance Track by Vishal Alhat (DevOps Lead Forcepoint Software) on Securing Tomorrow: getting started with AWS and Cloud Security
-02.30 – 03.20 -
-Session 5 
-- AI/ML Track by Abishek Subramanian (Senior Technical Solutions Engineer Databricks) onCrafting Intelligence with LLM on Databricks in AWS 
-- Serverless Track / Data Ops Track by Giri Venkatesan (Developer Advocate Solace) on Navigating the Cloud: A Journey through System Design, Architecture,and Event Driven Paradigms
-03.20 – 03.40 - Tea Break – 2 
-03.40 – 04.30 - Panel Discussion – Topic: Ethics in AI? What is going to be the future of Generative AI in technological world?
-4 Panel Members | 1 Panel Host 
+Day 2: 9.40 tto 10.00  - Tea Break
+
+Day 2: 10.00 - 10.50 - 
+AI/ML Track Session 1  by Prabakaran Chandran (Senior ML Engineer, Informatica) on Building Retrieval Augmented Generation with AWS OpenSearch Service.
+Serverless Track / Data Ops Track Session 1  by Sridevi Murugayen (Director Fidelity Investments)
+Security / Career Guidance Track Session 1  by Sanjeev Kumar Jaiswal (Staff Engineer - Cybersecurity Lifesight) on Insights of AWS Security in Industry for Career growth
+
+Day 2: 10.50 - 11.40 - 
+AI/ML Track Session 2 by Dheeraj Choudhary (Lead Systems Engineer, EPAM Systems) on Revolutionize your coding experience with Amazon CodeWhisperer
+Serverless Track / Data Ops Track Session 2 by Hariharan (Senior Software Engineer, Caterpillar) on Charting the Future: AWS Serverless Strategies for Success
+Security / Career Guidance Track Session 2 by Ranjinni Joshe (Cloud Security Consultant - Million Square Feet) on Insights into AWS Encryption and GuardDuty Blueprint
+
+Day 2: 11.40 - 12.30 -
+AI/ML Track Session 3 by Vijayalakshmi Bakthavachalam (Site Reliability Engineer HCL Technologies) on Tranforming IT Operations: Unleashing AI/ML Power on AWS
+Serverless Track / Data Ops Track Session 3 by Jones Zacharia Noel (Senior Developer Advocate Freshworks) on Building Serverless applications from your IDE with AWS Application Composer
+Security / Career Guidance Track Session 3 by Aditi Sawhney (Senior Digital Marketing Manager Amazon Web Services) on Building Your Brand Blueprint: 7 Strategic Steps for Personal Growth
+
+Day 2: 12.30 to 1.40 - Lunch Break
+
+Day 2: 01.40 to 02.30 - 
+AI/ML Track Session 4 by Ayyanar Jeyakrishnan (Executive Director / Principal Engineer Wells Fargo) on Unleashing Machine learning Magic: Demystifying Amazon SageMaker Canvas for Student Innovators
+Serverless Track / Data Ops Track Session 4 by Sriharsha (Senior Solutions Architect Amazon Web Services) on Leveraging the Power of Machine Learning with Data Analytics
+Security / CareerGuidance Track Session 4 by Vishal Alhat (DevOps Lead Forcepoint Software) on Securing Tomorrow: getting started with AWS and Cloud Security
+
+Day 2: 02.30 – 03.20 -
+AI/ML Track Session 5 by Abishek Subramanian (Senior Technical Solutions Engineer Databricks) onCrafting Intelligence with LLM on Databricks in AWS 
+Serverless Track / Data Ops Track Session 5 by Giri Venkatesan (Developer Advocate Solace) on Navigating the Cloud: A Journey through System Design, Architecture,and Event Driven Paradigms
+
+Day 2: 03.20 – 03.40 - Tea Break – 2 
+
+Day 2: 03.40 – 04.30 -
+Panel Discussion – Topic: Ethics in AI? What is going to be the future of Generative AI in technological world?
 Panel Members: 
 1. Jen Looper - Head of AWS Advocacy Team, Developer Relations at Amazon Web Services
 2. Barathi Ganesh Hullathy Balakrishnan - Head of Research and Development - RBG.AI
-04.30 – 04.40 - Winners announcing for Gen AI Competition
-04.40 – 05.00 - Vote of Thanks and Thanks Giving
-Raghul G
-AWS Cloud Captain | AWS Cloud Club SJIT
-05.00 – 05.30 - Goodies Distribution
-05.30 - 6.00 - End of Day 2
+
+Day 2: 04.30 – 04.40 - Winners announcing for Gen AI Competition
+
+Day 2: 04.40 – 05.00 - Vote of Thanks and Thanks Giving by Raghul G AWS Cloud Captain ,AWS Cloud Club SJIT
+
+Day 2: 05.00 – 05.30 - Goodies Distribution
+
+Day 2: 05.30 - 6.00 - End of Day 2
 
 
