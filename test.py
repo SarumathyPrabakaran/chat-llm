@@ -11,7 +11,7 @@ with sr.Microphone(device_index=0) as source:
     audio = r.listen(source,phrase_time_limit=5,timeout=5)
 
 
-url = 'https://a2cd-104-196-245-8.ngrok-free.app/ask'
+url = 'https://20cf-34-16-150-248.ngrok-free.app/ask'
 
 headers = {
     'accept': 'application/json',
