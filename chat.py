@@ -2,13 +2,13 @@ import transformers
 from torch import cuda, bfloat16
 
 from langchain_community.llms import HuggingFacePipeline
-from langchain.document_loaders import TextLoader
+from langchain_community.document_loaders import TextLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.embeddings import HuggingFaceEmbeddings
-from langchain.vectorstores import Chroma
+from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_community.vectorstores import Chroma
 from langchain.prompts import PromptTemplate
 from langchain.chains import RetrievalQA
-
+#pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 
 class ChatBot:
     def __init__(self,file_path):

@@ -1,7 +1,7 @@
 import speech_recognition as sr 
 
 class SpeechText:
-    def __init__(self, mode):
+    def __init__(self, mode = 'api'):
         self.mode = mode
 
         if self.mode == 'api':
