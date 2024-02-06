@@ -12,7 +12,7 @@ def get_answer(audio_file: UploadFile = File(...)):
     t = time.time()
     question = speech.recognize(audio_file.file)
     print(f"Took {time.time() - t} seconds for speech recognition.")
-    answer = chat.invoke(question)
+    answer = chat.ask(question)
     print(f"Took {time.time() - t} seconds on total.")
     return answer
 
