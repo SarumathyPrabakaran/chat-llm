@@ -5,7 +5,7 @@ import time
 
 from chat import ChatBot
 from speech import SpeechText
-from speak import Pesuda
+from speak import TextSpeech
 
 app = FastAPI()
 
@@ -21,7 +21,7 @@ def get_answer(audio_file: UploadFile = File(...), name: str = Form(...)):
     print(f"Took {time.time() - t} seconds for speech recognition.")
     answer = chat.ask(question, name)
     print(f"Took {time.time() - t} seconds till generating output.")
-    audio = pesurathu.pesu(answer)
+    audio = speaker.render(answer)
     print(f"Took {time.time() - t} seconds till pesurathu")
 
     return FileResponse(audio)
@@ -29,5 +29,5 @@ def get_answer(audio_file: UploadFile = File(...), name: str = Form(...)):
 if __name__ == '__main__':
     chat = ChatBot("context.txt")
     speech = SpeechText()
-    pesurathu = Pesuda()
+    speaker = TextSpeech()
     uvicorn.run(app, host="0.0.0.0", port=8000)
