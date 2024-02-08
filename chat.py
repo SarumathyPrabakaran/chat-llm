@@ -43,7 +43,7 @@ class ChatBot:
                 tokenizer=tokenizer,
                 torch_dtype=bfloat16,
                 device_map="auto",
-                max_new_tokens = 100
+                max_new_tokens = 120
         )
 
         llm = HuggingFacePipeline(pipeline=query_pipeline)

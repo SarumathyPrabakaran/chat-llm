@@ -20,11 +20,11 @@ def get_answer(audio_file: UploadFile = File(...), name: str = Form(...)):
     
     print(f"Took {time.time() - t} seconds for speech recognition. {question}" )
     answer = chat.ask(question, name)
-    answer = answer.replace("AWS","A. W S")
-    answer = answer.replace("AI","A. I")
+    answer = answer.replace("AWS","Ae W S")
+    answer = answer.replace("AI","Ae I")
     print(f"Took {time.time() - t} seconds till generating output. {answer}")
     audio = speaker.render(answer)
-    print(f"Took {time.time() - t} seconds till pesurathu")
+    print(f"Took {time.time() - t} seconds in total.")
 
     return FileResponse(audio)
 
