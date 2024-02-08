@@ -10,3 +10,5 @@ sentence-transformers
 langchain
 SpeechRecognition
 pyaudio
+espnet
+espnet-model-zoo
