@@ -35,7 +35,7 @@ if __name__ == '__main__':
     speech = SpeechText()
     speaker = TextSpeech()
     chat = ChatBot("context.txt")
-    log_file = f'log{time.time().csv}'
+    log_file = f'log{time.time()}.csv'
     with open(log_file,'w') as f:
         writer = csv.writer(f)
         writer.writerow(["Date Time", "Asker","Question", "Response"])
