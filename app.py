@@ -1,7 +1,8 @@
 from fastapi import FastAPI, UploadFile, File, Form
 from fastapi.responses import FileResponse
 import uvicorn
-import time
+import time,datetime
+import csv
 
 from chat import ChatBot
 from speech import SpeechText
@@ -25,11 +26,18 @@ def get_answer(audio_file: UploadFile = File(...), name: str = Form(...)):
     print(f"Took {time.time() - t} seconds till generating output. {answer}")
     audio = speaker.render(answer)
     print(f"Took {time.time() - t} seconds in total.")
-
+    with open(log_file,'a') as f:
+        writer = csv.writer(f)
+        writer.writerow([datetime.datetime.now(), name, question, answer])
     return FileResponse(audio)
 
 if __name__ == '__main__':
     speech = SpeechText()
     speaker = TextSpeech()
     chat = ChatBot("context.txt")
+    log_file = f'log{time.time().csv}'
+    with open(log_file,'w') as f:
+        writer = csv.writer(f)
+        writer.writerow(["Date Time", "Asker","Question", "Response"])
+        
     uvicorn.run(app, host="0.0.0.0", port=8000)
