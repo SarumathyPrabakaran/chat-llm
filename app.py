@@ -9,6 +9,7 @@ from chat import ChatBot
 from speech import SpeechText
 from speak import TextSpeech
 
+
 app = FastAPI()
 
 @app.post('/feedback')
@@ -48,7 +49,7 @@ if __name__ == '__main__':
     speech = SpeechText()
     speaker = TextSpeech()
     chat = ChatBot("context.txt")
-    log_file = os.path.join('logs',f'log{time.time()}.csv')
+    log_file = os.path.join('logs',f'log_{datetime.datetime.now().strftime("%d_%m_%Y_%H_%M_%S")}.csv')
     with open(log_file,'w') as f:
         writer = csv.writer(f)
         writer.writerow(["Date Time", "Asker","Question", "Response"])
