@@ -11,27 +11,20 @@ app = FastAPI()
 
 @app.post('/')
 def get_answer(audio_file: UploadFile = File(...), name: str = Form(...)):
-    #TODO: Make multipart response
 
     t = time.time()
     try:
         question = speech.recognize(audio_file.file)
     except:
-        return {
-            "status": 0,
-        }
+        return 0
     
     print(f"Took {time.time() - t} seconds for speech recognition.")
     answer = chat.ask(question, name)
     print(f"Took {time.time() - t} seconds till generating output.")
     audio = pesurathu.pesu(answer)
+    print(f"Took {time.time() - t} seconds till pesurathu")
 
-    return {
-        "status": 1,
-        "question": question,
-        "answer": answer,
-        "audio": FileResponse(audio)
-    }
+    return FileResponse(audio)
 
 if __name__ == '__main__':
     chat = ChatBot("context.txt")
