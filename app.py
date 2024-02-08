@@ -3,12 +3,25 @@ from fastapi.responses import FileResponse
 import uvicorn
 import time,datetime
 import csv
+import os
 
 from chat import ChatBot
 from speech import SpeechText
 from speak import TextSpeech
 
 app = FastAPI()
+
+@app.post('/feedback')
+def save_feedback(audio_file: UploadFile = File(...), name: str = Form(...)):
+    t = time.time()
+    try:
+        question = speech.recognize(audio_file.file)
+        with open(log_file,'a') as f:
+            writer = csv.writer(f)
+            writer.writerow([datetime.datetime.now(), name, question, "Feedback"])
+    except:
+        return 404
+    return 200
 
 @app.post('/')
 def get_answer(audio_file: UploadFile = File(...), name: str = Form(...)):
@@ -35,7 +48,7 @@ if __name__ == '__main__':
     speech = SpeechText()
     speaker = TextSpeech()
     chat = ChatBot("context.txt")
-    log_file = f'log{time.time()}.csv'
+    log_file = os.path.join('logs',f'log{time.time()}.csv')
     with open(log_file,'w') as f:
         writer = csv.writer(f)
         writer.writerow(["Date Time", "Asker","Question", "Response"])
