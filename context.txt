@@ -8,15 +8,8 @@ The AWS Student Community Day promises an immersive experience over two days, fe
 Topics Covered:
 Cloud Computing, Generative AI Growth, Machine learning Engineering, Serverless, Event Based Architecture, Security and DataOps
 
-
-
-
 Day 1 Speakers: 
-Sornavel Perumal,Mahesh Baby Puliyadi Kubendran,Bhuvana R,Padmini Subramanian,Jen Looper,Aarthi Ranganathan,Bharath Kumar N,Deepak Sai Pandelya,Sankalp Sandeep Paranjpe,Chirag Oswal,Murali Doss,Aditi Sawhney,
-
-
-
-
+Sornavel Perumal,Mahesh Baby Puliyadi Kubendran,Bhuvana R,Padmini Subramanian,Jen Looper,Aarthi Ranganathan,Bharath Kumar N,Deepak Sai Pandelya,Sankalp Sandeep Paranjpe,Chirag Oswal,Murali Doss,Aditi Sawhney
 
 Day 1: 8:00 to 9:30 - Registration
 
@@ -52,11 +45,11 @@ AI/ML Track Session 4 is Demystifying generative AI on AWS by Chirag Oswal, Part
 Serverless/DataOps Track Session 4 is Orchestration Odyssey: Navigating Tomorrow's Digital Symphony with AWS DataZone, Murali Doss, DevOps Lead at Comcast Data.
 Security/ Career Guidance Session 4 is Two Journeys One Cloud Career Pathways by Jen Looper, AWS and Aditi Sawhney Senior Digital Marketing Manager atAmazon Web Services
 
-Day 1: 03.20 – 03.40 - Tea Break
+Day 1: 03.20 - 03.40 - Tea Break
 
-Day 1: 03.40 – 04.30 - Panel Discussion - Topic: What will be the Opportunities in Next Decade? What students and early career professionals need to follow to pursuse an excellent career?
+Day 1: 03.40 - 04.30 - Panel Discussion - Topic: What will be the Opportunities in Next Decade? What students and early career professionals need to follow to pursuse an excellent career?
 
-Day 1: 04.30 – 05.00 - End of Day 1
+Day 1: 04.30 - 05.00 - End of Day 1
 
 
 Day 2 Speakers: 
@@ -93,24 +86,22 @@ AI/ML Track Session 4 by Ayyanar Jeyakrishnan (Executive Director / Principal En
 Serverless Track / Data Ops Track Session 4 by Sriharsha (Senior Solutions Architect Amazon Web Services) on Leveraging the Power of Machine Learning with Data Analytics
 Security / CareerGuidance Track Session 4 by Vishal Alhat (DevOps Lead Forcepoint Software) on Securing Tomorrow: getting started with AWS and Cloud Security
 
-Day 2: 02.30 – 03.20 -
+Day 2: 02.30 - 03.20 -
 AI/ML Track Session 5 by Abishek Subramanian (Senior Technical Solutions Engineer Databricks) onCrafting Intelligence with LLM on Databricks in AWS 
 Serverless Track / Data Ops Track Session 5 by Giri Venkatesan (Developer Advocate Solace) on Navigating the Cloud: A Journey through System Design, Architecture,and Event Driven Paradigms
 
-Day 2: 03.20 – 03.40 - Tea Break – 2 
+Day 2: 03.20 - 03.40 - Tea Break - 2 
 
-Day 2: 03.40 – 04.30 -
-Panel Discussion – Topic: Ethics in AI? What is going to be the future of Generative AI in technological world?
+Day 2: 03.40 - 04.30 -
+Panel Discussion - Topic: Ethics in AI? What is going to be the future of Generative AI in technological world?
 Panel Members: 
 1. Jen Looper - Head of AWS Advocacy Team, Developer Relations at Amazon Web Services
 2. Barathi Ganesh Hullathy Balakrishnan - Head of Research and Development - RBG.AI
 
-Day 2: 04.30 – 04.40 - Winners announcing for Gen AI Competition
+Day 2: 04.30 - 04.40 - Winners announcing for Gen AI Competition
 
-Day 2: 04.40 – 05.00 - Vote of Thanks and Thanks Giving by Raghul G AWS Cloud Captain ,AWS Cloud Club SJIT
+Day 2: 04.40 - 05.00 - Vote of Thanks and Thanks Giving by Raghul G AWS Cloud Captain ,AWS Cloud Club SJIT
 
-Day 2: 05.00 – 05.30 - Goodies Distribution
+Day 2: 05.00 - 05.30 - Goodies Distribution
 
 Day 2: 05.30 - 6.00 - End of Day 2
-
-

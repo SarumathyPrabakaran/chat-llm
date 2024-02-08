@@ -1,4 +1,5 @@
-from fastapi import FastAPI, UploadFile, File, Form, FileResponse
+from fastapi import FastAPI, UploadFile, File, Form
+from fastapi.responses import FileResponse
 import uvicorn
 import time
 

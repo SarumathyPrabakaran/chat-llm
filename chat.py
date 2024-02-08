@@ -94,8 +94,7 @@ Answer:[/INST]"""
 
     def ask(self, question, name):
         question = f"""
-Name: {name}
 
-Question: {question}. Your answer must be in one or two lines.
+Question: I am {name}. {question}. Your answer must be in one or two lines.
 """
         return self.qa.invoke(question)['result']
