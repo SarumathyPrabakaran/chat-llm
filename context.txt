@@ -8,8 +8,7 @@ The AWS Student Community Day promises an immersive experience over two days, fe
 Topics Covered:
 Cloud Computing, Generative AI Growth, Machine learning Engineering, Serverless, Event Based Architecture, Security and DataOps
 
-Day 1 Speakers: 
-Sornavel Perumal,Mahesh Baby Puliyadi Kubendran,Bhuvana R,Padmini Subramanian,Jen Looper,Aarthi Ranganathan,Bharath Kumar N,Deepak Sai Pandelya,Sankalp Sandeep Paranjpe,Chirag Oswal,Murali Doss,Aditi Sawhney
+Day 1 Speakers are Sornavel Perumal,Mahesh Baby Puliyadi Kubendran,Bhuvana R,Padmini Subramanian,Jen Looper,Aarthi Ranganathan,Bharath Kumar N,Deepak Sai Pandelya,Sankalp Sandeep Paranjpe,Chirag Oswal,Murali Doss,Aditi Sawhney
 
 Day 1: 8:00 to 9:30 - Registration
 
@@ -52,8 +51,7 @@ Day 1: 03.40 - 04.30 - Panel Discussion - Topic: What will be the Opportunities 
 Day 1: 04.30 - 05.00 - End of Day 1
 
 
-Day 2 Speakers: 
-Prabakaran Chandran,Sridevi Murugayen,Sanjeev Kumar Jaiswal,Dheeraj Choudhary,Hariharan,Ranjinni Joshe,Vijayalakshmi Bakthavachalam,Jones Zacharia Noel,Aditi Sawhney,Ayyanar Jeyakrishnan,Sriharsha,Giri Venkatesan,Vishal Alhat,Abishek Subramanian
+Day 2 Speakers are Prabakaran Chandran,Sridevi Murugayen,Sanjeev Kumar Jaiswal,Dheeraj Choudhary,Hariharan,Ranjinni Joshe,Vijayalakshmi Bakthavachalam,Jones Zacharia Noel,Aditi Sawhney,Ayyanar Jeyakrishnan,Sriharsha,Giri Venkatesan,Vishal Alhat,Abishek Subramanian
 
 
 Day 2: 08:00 to 09:00 -  Registration
@@ -62,7 +60,7 @@ Day 2: 09.00 to 09.10 - Welcome Note by Dr.P.Ravichandran (Principal,  St. Josep
 
 Day 2: 09.10 to 09.40 - Special Addressing  by Madhukiran J (Senior Technical Account Manager, Amazon Web Services) on topic Welcome to Generative AI Space, Updates and Advancements from AWS Re:Invent 2023
 
-Day 2: 9.40 tto 10.00  - Tea Break
+Day 2: 9.40 to 10.00  - Tea Break
 
 Day 2: 10.00 - 10.50 - 
 AI/ML Track Session 1  by Prabakaran Chandran (Senior ML Engineer, Informatica) on Building Retrieval Augmented Generation with AWS OpenSearch Service.
