@@ -61,7 +61,7 @@ class ChatBot:
                                            )
         vectordb = Chroma.from_documents(documents = splitted_documents,
                                  embedding = embeddings,
-                                 persist_directory = "db")
+                                 persist_directory = "db2")
         return vectordb
 
     def build_qa(self,template = None):
